@@ -118,18 +118,10 @@
       <br><br>
       <h1 class="text-center text-uppercase text-light-coral">Создание сайтов</h1>
       <br>
-      <div class="col-md-6">
-
-      </div>
-      <div class="col-md-6">
-        <h2 class="text-center">Системное администрирование</h2>
-        <p class="text-justify">Bulum iaculis lacinia est. Proin dictum elemntum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit met consectetuer adipiscing elit. ellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet.</p>
-        <p class="text-justify">Nulla vene natis. In pede mi aliquet sit amet euismod in auctor ut ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor lobortis quis lobortis dignissim pulvinar ac lorem. Vestibulum sed ante. Donec sagittis euismod pured ut perspiciatis unde omnis iste natus errouptatem accusa ntium doloremque laudantium tota.</p>
-      </div>
-      <div class="clearfix"></div>
 
       <div class="col-md-6">
         <h2 class="text-center">Web-Разработка</h2>
+        <p class="text-justify">Bulum iaculis lacinia est. Proin dictum elemntum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit met consectetuer adipiscing elit. ellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla vene natis. In pede mi aliquet sit amet</p>
         <p class="text-justify">Nulla facilis Aenean nectibulumante ipsum prin faucibus orci luctus et trices posuere cubilia Suspendse sollicit udin velit sed le pharetra aue nec augentum. Donec in velit vel ipsum auue. Nam elit magna. Donec porta diam eu massa diam lorem interdum vitaapibus ac scelerisque vitae pede. Donec eget tellus non erat lacinia fermentunec in velit vel ipsum auctinar. Proin ullamcorp.</p>
         <p class="text-justify">Bulum iaculis lacinia est. Proin dictum elemntum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit met consectetuer adipiscing elit. ellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla vene natis. In pede mi aliquet sit amet</p>
       </div>
