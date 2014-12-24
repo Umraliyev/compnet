@@ -123,6 +123,7 @@
         <h2 class="text-center">Web-Разработка</h2>
         <p class="text-justify">Nulla facilis Aenean nectibulumante ipsum prin faucibus orci luctus et trices posuere cubilia Suspendse sollicit udin velit sed le pharetra aue nec augentum. Donec in velit vel ipsum auue. Nam elit magna. Donec porta diam eu massa diam lorem interdum vitaapibus ac scelerisque vitae pede. Donec eget tellus non erat lacinia fermentunec in velit vel ipsum auctinar. Proin ullamcorp.</p>
         <p class="text-justify">Bulum iaculis lacinia est. Proin dictum elemntum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit met consectetuer adipiscing elit. ellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla vene natis. In pede mi aliquet sit amet</p>
+        <p class="text-justify">Bulum iaculis lacinia est. Proin dictum elemntum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit met consectetuer adipiscing elit. ellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla vene natis. In pede mi aliquet sit amet</p>
       </div>
       <div class="col-md-6">
 
